@@ -1,0 +1,7 @@
+beautifulsoup4
+ipywidgets
+jupyterlab
+numpy
+pandas
+plotly
+requests
